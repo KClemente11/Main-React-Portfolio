@@ -1,0 +1,42 @@
+/* TEAM */
+
+                            
+Kyle Clemente
+
+                            
+Site: email, link to a contact form, etc.
+
+                            
+Twitter: KClementine11
+
+                            
+Location: Chicago, IL
+
+                         
+                 
+                        [...]
+						
+
+							
+/* THANKS */
+
+							
+Name: Slobodan
+						
+                 
+                        [...]
+                        
+
+                            
+/* SITE */
+
+                            
+Last update: 2022/08/07 
+
+                            
+Standards: HTML5, CSS3,..
+
+                            
+Components: React, React Loader, Animated Text, emailJS , @fortawesome/free-brands-svg-icons, fortawesome/free-solid-svg-icons, fortawesome/react-fontawesome, animate.css, loaders.css
+
+                    
