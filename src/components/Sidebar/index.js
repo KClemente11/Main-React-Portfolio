@@ -35,7 +35,7 @@ const Sidebar =() => {
         className="close-icon"
         />
     </nav>
-    <ul className={showNav ? "mobile-show" : ""}>
+    <ul>
         <li>
             <a target="_blank"
                rel="noreferrer"
