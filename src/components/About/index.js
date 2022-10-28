@@ -27,7 +27,7 @@ const About = () => {
                         />
                 </h1>
                 <p>
-                    I'm a very ambiitious developer with full-stack capabilities looking for a role to work in a team with the latest technologies on challenging and diverse projects.
+                    I'm a very ambitious developer with full-stack capabilities looking for a role to work in a team with the latest technologies on challenging and diverse projects.
                 </p>
                 <p>
                     If I could describe myself in one sentence, it would be that I am a very outgoing person who enjoys working with a team and is not afraid of a challenge.
