@@ -38,17 +38,8 @@
     animation-delay: 1s;
 }
 
-.about-page, .contact-page{
-    .text-zone{
-        position: absolute;
-        left: 10%;
-        top: 50%;
-        transform: translateY(-50%);
-        width: 35%;
-        vertical-align: middle;
-        display: table-cell;
-        max-height: 90%;
-    }
+.about-page, .contact-page, .portfolio-page{
+
 
     h1{
         font-size: 53px;
@@ -101,6 +92,17 @@
         }
     }
 
+    .text-zone{
+        position: absolute;
+        left: 10%;
+        top: 50%;
+        transform: translateY(-50%);
+        width: 35%;
+        vertical-align: middle;
+        display: table-cell;
+        max-height: 90%;
+    }
+
     .text-animate-hover{
         &:hover{
             color: white;
@@ -108,27 +110,35 @@
     }
 }
 
-@media screen and (max-width: 1200px){
-    .page{
-        position: initial;
+@media screen and (max-width: 1200px) {
+    .page {
+      position: initial;
     }
-
-    .container{
-        position: initial;
-        height: auto;
-        min-height: auto;
-
-        &.about-page,
-        &.contact-page,
-        &.portfolio-page{
-            .text-zone{
-                position: initial;
-                transform: none;
-                width: 100%;
-                display: block;
-                padding: 20px;
-                box-sizing: border-box;
-            }
+  
+    .container {
+      position: initial;
+      height: auto;
+      min-height: auto;
+  
+      &.contact-page,
+      &.about-page,
+      &.portfolio-page {
+        .text-zone {
+          position: initial;
+          transform: none;
+          width: 100%;
+          display: block;
+          padding: 20px;
+          box-sizing: border-box;
         }
+      }
     }
-}
+  
+    .stage-cube-cont {
+      position: initial;
+      width: 100%;
+      height: 0%;
+      overflow: visible;
+    }
+  }
+  

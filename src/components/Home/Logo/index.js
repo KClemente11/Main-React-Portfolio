@@ -1,5 +1,5 @@
 import "./index.scss"
-import LogoKC from '../../../assets/images/Main.jpg'
+import LogoKC from '../../../assets/images/Full.jpg'
 
 const Logo = () => {
 

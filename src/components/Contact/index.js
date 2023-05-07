@@ -46,7 +46,7 @@ const Contact = () => {
                     />
                 </h1>
                 <p>
-                    Thank you for your consideration and should you choose to contact me, I will get back to you as soon as possible!
+                    If you have any questions or comments, feel free to contact me and I will get back to you as soon as possible!
                 </p>
                 <div className="contact-form">
                     <form ref={form} onSubmit={sendEmail}>
